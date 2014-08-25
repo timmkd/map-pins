@@ -1,0 +1,413 @@
+[
+    {
+        "lat": 51.5220066,
+        "lng": -0.07175119999999424,
+        "name": "Brick Lane",
+        "country": "United Kingdom",
+        "brand":"Clermont",
+        "address":"Address place W 23 8ytg",
+        "phone":"0776 9887 667",
+        "url":"http://www.facebook.com"
+    },
+    {
+        "lat": 51.504746,
+        "lng": -0.22305000000005748,
+        "name": "Shepherds Bush",
+        "country": "United Kingdom",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 51.5115115,
+        "lng": -0.12274909999996453,
+        "name": "Covent Garden",
+        "country": "United Kingdom",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": -12.4628271,
+        "lng": 130.84177720000002,
+        "name": "Darwin, Australia",
+        "country": "Australia",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":"",
+        "country": "Australia"
+    },
+    {
+        "lat": -34.92862119999999,
+        "lng": 138.5999594,
+        "name": "Adelaide, Australia",
+        "country": "Australia",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": -37.814107,
+        "lng": 144.96327999999994,
+        "name": "Melbourne, Australia",
+        "country": "Australia",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 38.90723089999999,
+        "lng": -77.03646409999999,
+        "name": "Washington DC",
+        "country": "USA",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 40.7607793,
+        "lng": -111.89104739999999,
+        "name": "Salt Lake City, Utah",
+        "country": "USA",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 28.5383355,
+        "lng": -81.37923649999999,
+        "name": "Orlando, Florida",
+        "country": "USA",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 51.5054306,
+        "lng": -0.023533300000053714,
+        "name": "Canary Wharf",
+        "country": "United Kingdom",
+        "brand":"Cumberland",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": -32.926689,
+        "lng": 151.77892050000003,
+        "name": "Newcastle, Australia",
+        "country": "Australia",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 40.8517746,
+        "lng": 14.268124400000033,
+        "name": "Naples, Italy",
+        "country": "Italy",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 43.7710332,
+        "lng": 11.248000600000069,
+        "name": "Florence, Italy",
+        "country": "Italy",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 43.0895577,
+        "lng": -79.08494359999997,
+        "name": "Niagara Falls, Canada",
+        "country": "Canada",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 37.9837155,
+        "lng": 23.72930969999993,
+        "name": "Athens, Greece",
+        "country": "Greece",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 37.862209,
+        "lng": 27.263729000000012,
+        "name": "Kusadasi, Turkey",
+        "country": "Turkey",
+        "brand":"Thistle",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 50.1109221,
+        "lng": 8.682126700000026,
+        "name": "Frankfurt, Germany",
+        "country": "Germany",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 41.00527,
+        "lng": 28.976959999999963,
+        "name": "Istanbul, Turkey",
+        "country": "Turkey",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 50.937531,
+        "lng": 6.960278600000038,
+        "name": "Cologne, Germany",
+        "country": "Germany",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 43.7228386,
+        "lng": 10.401688799999988,
+        "name": "Pisa, Italy",
+        "country": "Italy",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 53.5510846,
+        "lng": 9.99368179999999,
+        "name": "Hamburg, Germany",
+        "country": "Germany",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 41.8929163,
+        "lng": 12.482519899999943,
+        "name": "Roma, Italy",
+        "country": "Italy",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 48.856614,
+        "lng": 2.3522219000000177,
+        "name": "Paris, France",
+        "country": "France",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 43.73841760000001,
+        "lng": 7.42461579999997,
+        "name": "Monaco",
+        "country": "Monaco",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 35.6894875,
+        "lng": 139.69170639999993,
+        "name": "Tokyo, Japan",
+        "country": "Japan",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 47.3686498,
+        "lng": 8.539182500000038,
+        "name": "Zurich, Switzerland",
+        "country": "Switzerland",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 43.696036,
+        "lng": 7.26559199999997,
+        "name": "Nice, France",
+        "country": "France",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 34.0522342,
+        "lng": -118.2436849,
+        "name": "Los Angeles, USA",
+        "country": "USA",
+        "brand":"Thistle",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 40.7143528,
+        "lng": -74.0059731,
+        "name": "New York, USA",
+        "country": "USA",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 50.59382000000001,
+        "lng": -4.829977999999983,
+        "name": "Port Isaac, United Kingdom",
+        "country": "United Kingdom",
+        "brand":"Cumberland",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 54.978252,
+        "lng": -1.6177800000000389,
+        "name": "Newcastle, United Kingdom",
+        "country": "United Kingdom",
+        "brand":"Thistle",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 42.0924982,
+        "lng": 11.795681100000024,
+        "name": "Civitavecchia, Italy",
+        "country": "Italy",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 35.1613985,
+        "lng": 138.6762728,
+        "name": "Fuji, Japan",
+        "country": "Japan",
+        "brand":"Thistle",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 55.6760968,
+        "lng": 12.568337100000008,
+        "name": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 52.3702157,
+        "lng": 4.895167899999933,
+        "name": "Amsterdam, Holland",
+        "country": "Holland",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 43.552847,
+        "lng": 7.017369000000031,
+        "name": "Cannes, France",
+        "country": "France",
+        "brand":"Every",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 37.4414601,
+        "lng": 25.36672180000005,
+        "name": "Mykonos, Greece",
+        "country": "Greece",
+        "brand":"Thistle",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": -18.2861302,
+        "lng": 147.70000759999994,
+        "name": "Great Barrier Reef, Australia",
+        "country": "Australia",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 46.9479222,
+        "lng": 7.444608499999958,
+        "name": "Bern, Switzerland",
+        "country": "Switzerland",
+        "brand":"Amba",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 52.383626,
+        "lng": 4.635955999999965,
+        "name": "Harlem, Holland",
+        "country": "Holland",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    },
+    {
+        "lat": 36.4166485,
+        "lng": 25.432447000000025,
+        "name": "Santorini, Greece",
+        "country": "Holland",
+        "brand":"Clermont",
+        "address":"",
+        "phone":"",
+        "url":""
+    }
+]
