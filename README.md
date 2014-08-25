@@ -1,3 +1,3 @@
 Script created by Tim McDonald
 
-tim.mkdonald@gmail.com
+Add pins to a google map through a data attribute tag.
